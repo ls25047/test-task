@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    height: 100%;
+    color: #222;
+}
+
+.map {
+    position: absolute;
+    top: 0;
+    background: url("img/map.png") no-repeat center;
+    z-index: -1;
+    width: 810px;
+    height: 525px;
+}
+
+.map .point {
+    fill: yellow;
+    cursor: pointer;
+}
+
+.map .point:hover {
+    opacity: 1;
+    transition: .5s;
+}
+
+.zones img {
+    position: absolute;
+    object-fit: cover;
+    width: 70px;
+    height: 70px;
+    border: 1px;
+    padding: 3px;
+    background-color: white;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out;
+}
+
+.zones img:hover {
+    opacity: 0;
+    visibility: hidden;
+    transition: .55s opacity, .55s visibility;
+}
+
+.hide {
+    opacity: 0;
+}

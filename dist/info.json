@@ -1,0 +1,212 @@
+{
+    "cities":[
+        {
+            "id": "city-1",
+            "name": "Арсеньев",
+            "x": 725,
+            "y": 437
+        },
+        {
+            "id": "city-2",
+            "name": "Мурманск",
+            "x": 187,
+            "y": 197
+        },
+        {
+            "id": "city-3",
+            "name": "Санкт-Петербург",
+            "x": 97,
+            "y": 237
+        },
+        {
+            "id": "city-4",
+            "name": "Гатчина",
+            "x": 85,
+            "y": 238
+        },
+        {
+            "id": "city-5",
+            "name": "Москва",
+            "x": 117,
+            "y": 307
+        }
+    ],
+    "zones": [
+        [
+            {
+                "id": "zone-1-1",
+                "x1": 530,
+                "y1":270,
+                "x2":750,
+                "y2":480
+            },
+            {
+                "id": "zone-1-2",
+                "x1": 130,
+                "y1":130,
+                "x2":230,
+                "y2":300
+            }
+        ],
+        [
+            {
+                "id": "zone-2",
+                "x1": 10,
+                "y1":220,
+                "x2":150,
+                "y2":350
+            }
+        ]
+    ],
+    "images": [
+        {
+            "src": "img/cities/armalit/01.png",
+            "zoneId": 2,
+            "id": "armalit-01"
+        },
+        {
+            "src": "img/cities/armalit/02.png",
+            "zoneId": 2,
+            "id": "armalit-02"
+        },
+        {
+            "src": "img/cities/armalit/03.png",
+            "zoneId": 2,
+            "id": "armalit-03"
+        },
+        {
+            "src": "img/cities/armalit/04.png",
+            "zoneId": 2,
+            "id": "armalit-04"
+        },
+        {
+            "src": "img/cities/armalit/05.png",
+            "zoneId": 2,
+            "id": "armalit-05"
+        },
+        {
+            "src": "img/cities/armalit/06.png",
+            "zoneId": 2,
+            "id": "armalit-06"
+        },
+        {
+            "src": "img/cities/armalit/07.png",
+            "zoneId": 2,
+            "id": "armalit-07"
+        },
+        {
+            "src": "img/cities/armalit/08.png",
+            "zoneId": 2,
+            "id": "armalit-08"
+        },
+        {
+            "src": "img/cities/armalit/09.png",
+            "zoneId": 2,
+            "id": "armalit-09"
+        },
+        {
+            "src": "img/cities/askold/01.png",
+            "zoneId": 1,
+            "id": "askold-01"
+        },
+        {
+            "src": "img/cities/askold/02.png",
+            "zoneId": 1,
+            "id": "askold-02"
+        },
+        {
+            "src": "img/cities/askold/03.png",
+            "zoneId": 1,
+            "id": "askold-03"
+        },
+        {
+            "src": "img/cities/askold/04.png",
+            "zoneId": 1,
+            "id": "askold-04"
+        },{
+            "src": "img/cities/askold/05.png",
+            "zoneId": 1,
+            "id": "askold-05"
+        },{
+            "src": "img/cities/askold/06.png",
+            "zoneId": 1,
+            "id": "askold-06"
+        },{
+            "src": "img/cities/askold/07.png",
+            "zoneId": 1,
+            "id": "askold-07"
+        },{
+            "src": "img/cities/askold/08.png",
+            "zoneId": 1,
+            "id": "askold-08"
+        },{
+            "src": "img/cities/askold/09.png",
+            "zoneId": 1,
+            "id": "askold-09"
+        },{
+            "src": "img/cities/askold/01.png",
+            "zoneId": 1,
+            "id": "askold-10"
+        },
+        {
+            "src": "img/cities/burevestnik/01.png",
+            "zoneId": 2,
+            "id": "burevestnik-01"
+        },
+        {
+            "src": "img/cities/burevestnik/02.png",
+            "zoneId": 2,
+            "id": "burevestnik-02"
+        },
+        {
+            "src": "img/cities/burevestnik/03.png",
+            "zoneId": 2,
+            "id": "burevestnik-03"
+        },
+        {
+            "src": "img/cities/burevestnik/04.png",
+            "zoneId": 2,
+            "id": "burevestnik-04"
+        },
+        {
+            "src": "img/cities/burevestnik/05.png",
+            "zoneId": 2,
+            "id": "burevestnik-05"
+        },
+        {
+            "src": "img/cities/burevestnik/06.png",
+            "zoneId": 2,
+            "id": "burevestnik-06"
+        },
+        {
+            "src": "img/cities/skbk/01.png",
+            "zoneId": 2,
+            "id": "skbk-01"
+        },
+        {
+            "src": "img/cities/skbk/02.png",
+            "zoneId": 2,
+            "id": "skbk-02"
+        },
+        {
+            "src": "img/cities/skbk/03.png",
+            "zoneId": 2,
+            "id": "skbk-03"
+        },
+        {
+            "src": "img/cities/skbk/04.png",
+            "zoneId": 2,
+            "id": "skbk-04"
+        },
+        {
+            "src": "img/cities/skbk/05.png",
+            "zoneId": 2,
+            "id": "skbk-05"
+        },
+        {
+            "src": "img/cities/skbk/06.png",
+            "zoneId": 2,
+            "id": "skbk-06"
+        }
+    ]
+}

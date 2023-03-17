@@ -1,0 +1,24 @@
+{
+  "name": "js-map",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "main.js",
+  "scripts": {
+    "build": "node_modules/.bin/webpack --mode production",
+    "dev": "node_modules/.bin/webpack --mode development",
+    "start": "node_modules/.bin/webpack-dev-server --mode development --open"
+  },
+  "keywords": [
+    "map"
+  ],
+  "author": "DN",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
